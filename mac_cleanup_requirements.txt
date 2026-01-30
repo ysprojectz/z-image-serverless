@@ -1,0 +1,5 @@
+# Mac Cleanup App Requirements
+# This app uses only Python standard library, no external dependencies required!
+
+# Optional dependencies for enhanced functionality:
+# Send2Trash>=1.8.0  # Cross-platform trash support (optional)
